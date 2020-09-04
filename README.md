@@ -22,6 +22,6 @@ Output of example input:<br>
 1 3 N<br>
 5 1 E<br>
 
-Modify the **sample_test** with the format above to customize input.
+Modify the **sample_test** with the format above to customize input.<br>
 Output will be on the console.
 
