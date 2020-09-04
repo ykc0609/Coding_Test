@@ -18,7 +18,6 @@ LMLMLMLMM<br>
 3 3 E<br>
 MMRMMRMRRM<br>
 
-
 Output of example input:<br>  
 1 3 N<br>
 5 1 E<br>
