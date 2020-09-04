@@ -32,6 +32,5 @@ MMRMMRMRRM
 Output of example input:
 
 1 3 N
-
 5 1 E
 
