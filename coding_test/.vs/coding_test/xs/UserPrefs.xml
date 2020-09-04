@@ -1,21 +1,24 @@
 ﻿<Properties StartupConfiguration="{A914C52C-8A8B-48D5-AE66-FBCB099E7C8A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="coding_test/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTests/UnitTest1.cs">
     <Files>
-      <File FileName="coding_test/Program.cs" Line="69" Column="14" />
+      <File FileName="coding_test/Program.cs" Line="12" Column="40" />
       <File FileName="coding_test/Rover.cs" />
+      <File FileName="UnitTests/UnitTest1.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="coding_test" expanded="True">
-            <Node name="coding_test" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="coding_test" expanded="True" />
+            <Node name="UnitTests" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UnitTests FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.coding__test PreferredExecutionTarget="MonoDevelop.Default" />
